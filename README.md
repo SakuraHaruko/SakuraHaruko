@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!--
-**buguwu/buguwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Minecraft mod development
+- 🌱 I’m currently learning `Golang`,`Vue`
+- 📫 How to reach me: [`Telegram`](https://t.me/buguwuOfficial) [`Twitter`](https://twitter.com/buguwuOfficial) [`Email`](mailto:buguwu.official@outlook.com)
+- 😄 Pronouns: `She／Her`
 
-Here are some ideas to get you started:
+![Github stats](https://github-readme-stats.vercel.app/api?username=buguwu&count_private=true&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buguwu&layout=compact&title_color=CC88BB&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/buguwu/"><img  align="center" src="https://github-readme-stats.vercel.app/api/?username=buguwu&show_icons=true&count_private=true&theme=dark"/></a>
-<a href="https://github.com/buguwu/"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buguwu&layout=compact&theme=dark"/></a>
+### Counter
+![buguwu](https://count.getloli.com/get/@buguwu)
