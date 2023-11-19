@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Minecraft mod development
-- 🌱 I’m currently learning `Golang`,`Vue`
+- 🌱 I’m currently learning `Golang`,`React`
 - 📫 How to reach me: [`Telegram`](https://t.me/buguwuOfficial) [`Twitter`](https://twitter.com/buguwuOfficial) [`Email`](mailto:buguwu.official@outlook.com)
 - 😄 Pronouns: `She／Her`
 
