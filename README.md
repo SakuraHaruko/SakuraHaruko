@@ -5,7 +5,7 @@
 - 📫 How to reach me: [`Email`](mailto:i@s4a.moe)
 - 😄 Pronouns: `She／Her`
 
-[Homepage (en)](https://s4a.moe)
+[Homepage (About)](https://s4a.moe) · [Friends](https://s4a.moe/friends)
 
 ### Tech Stack / Skills
 
